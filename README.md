@@ -1,6 +1,15 @@
 ### Hi there 👋, I'm Tony Ngo, an experienced full-stack software engineer.
 
 
+<div class='social-icon-and-text'>
+  <a href='https://www.linkedin.com/in/tony-ngo-suas/' target='_blank'>
+    <img src={'https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png'} class='social-icon' />
+  </a>
+  <div>
+    LinkedIn
+  </div>
+</div>
+
 
 <!--
 **suasllc/suasllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
