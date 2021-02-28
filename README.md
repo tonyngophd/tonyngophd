@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Tony Ngo, an experienced full-stack software engineer.
+
+
 
 <!--
 **suasllc/suasllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
