@@ -20,6 +20,11 @@
   </div>
 </div>
 
+- 🔭 I’m currently working on full-stack web apps
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on full-stack web apps, android apps, drone projects
+- 📫 How to reach me: https://www.tonyngo.us
+- 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
 <!--
 **suasllc/suasllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
