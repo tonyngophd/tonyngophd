@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on full-stack web apps
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on full-stack web apps, android apps, drone projects
-- 📫 How to reach me: https://www.tonyngo.us
+- 📫 How to reach me: https://www.tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
 <!--
