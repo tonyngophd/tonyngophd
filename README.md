@@ -11,8 +11,8 @@
     </div>
   </div>
   <div>
-    <a href='https://www.linkedin.com/in/tony-ngo-suas/' target='_blank'>
-      <img src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' with='30px' height='30px' />
+    <a href='https://www.tonyngo.us' target='_blank'>
+      <img src='https://cdn0.iconfinder.com/data/icons/web-design-21/50/44-512.png' with='30px' height='30px' />
     </a>
     <div>
       LinkedIn
