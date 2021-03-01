@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tony Ngo, an experienced full-stack software engineer.
 
 
-<div class='social-icon-and-text' style='display: flex;'>
+<div class='social-icon-and-text' style='display: flex; flex-direction: row;'>
   <div>
     <a href='https://www.linkedin.com/in/tony-ngo-suas/' target='_blank'>
       <img src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' with='30px' height='30px' />
