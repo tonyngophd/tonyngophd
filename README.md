@@ -26,6 +26,8 @@
 - 📫 How to reach me: https://www.tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
+<img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+
 <!--
 **suasllc/suasllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
