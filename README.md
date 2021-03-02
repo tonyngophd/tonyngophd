@@ -20,6 +20,9 @@
   </div>
 </div>
 
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/suasllc/count.svg" />
+
 - 🔭 I’m currently working on full-stack web apps
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on full-stack web apps, android apps, drone projects
