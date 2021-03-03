@@ -1,5 +1,4 @@
-### Hello
-#### I'm Tony Ngo, an experienced full-stack software engineer for web and mobile apps.
+#### Hello, I'm Tony Ngo, an experienced full-stack software engineer for web and mobile apps.
 
 - 🔭 I’m currently working on full-stack web apps
 - 🌱 I’m currently learning Typescript
