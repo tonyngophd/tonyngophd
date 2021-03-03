@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tony Ngo, an experienced full-stack software engineer.
+I'm Tony Ngo, an experienced full-stack software engineer working with JavaScript, React, Redux, PosgreSQL...
 
 - 🔭 I’m currently working on full-stack web apps
 - 🌱 I’m currently learning Typescript
