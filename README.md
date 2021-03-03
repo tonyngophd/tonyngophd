@@ -25,8 +25,19 @@
 
 For a comprehensive list of my tools and skills, please check here: https://tonyngo.me/#skills
 
+### My latest projects
+
+<a href="https://github.com/suasllc/dronest">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=suasllc&repo=dronest" alt="dronest" />
+</a>
+<a href="https://github.com/suasllc/instavibes">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=suasllc&repo=instavibes" alt="instavibes" />
+</a>
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
+<br>
 ### You can also find in me 🌍
  
   [<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
