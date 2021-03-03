@@ -7,8 +7,6 @@
 - 📫 How to reach me: https://www.tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
-<img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-
 ### Tools I work upon : 🛠
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/java%20-%23563D7C.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
@@ -27,6 +25,8 @@
 
 
 For a comprehensive list of my tools and skills, please check here: https://tonyngo.me/#skills
+
+<img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ### You can also find in me 🌍
  
