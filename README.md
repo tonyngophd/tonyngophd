@@ -14,14 +14,14 @@
 <img src="http://img.shields.io/badge/android%20studio%20-000000?style=for-the-badge&logo=Android-studio&logoColor=green"> 
 <img src="http://img.shields.io/badge/raspberry%20pi%20-000000?style=for-the-badge&logo=Raspberry-Pi&logoColor=red">
 <img src="http://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=Arduino&logoColor=blue">
+<img src="http://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=orange">
 <img src="http://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=PostgreSQL&logoColor=blue">
 <img src="http://img.shields.io/badge/sqlalchemy-000000?style=for-the-badge&logo=SqlAlchemy&logoColor=blue">
-<img src="http://img.shields.io/badge/amazon%20web%20services-000000?style=for-the-badge&logo=Amazon-Web-Services&logoColor=blue">
-<img src="http://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=orange">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
 
 
 For a comprehensive list of my tools and skills, please check here: https://tonyngo.me/#skills
