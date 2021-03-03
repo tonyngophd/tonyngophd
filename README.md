@@ -37,6 +37,11 @@ I'm Tony Ngo, an experienced full-stack software engineer for web and mobile app
 
 For a comprehensive list of my tools and skills, please check here: https://tonyngo.me/#skills
 
+### You can also find in me 🌍
+[<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tonyngo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tonyngo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/suasllc/count.svg" />
 
@@ -54,3 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://tonyngo.me
+[linkedin]: https://www.linkedin.com/in/tony-ngo-m/
+[youtube]: https://youtube.com/suascom
