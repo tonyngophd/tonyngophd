@@ -7,15 +7,6 @@
 - 📫 How to reach me: https://www.tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
-<a href='https://www.linkedin.com/in/tony-ngo-suas/' target='_blank'>
-  <img src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' with='30px' height='30px' />
-</a>
-
-<a href='https://www.tonyngo.us' target='_blank'>
-  <img src='https://cdn0.iconfinder.com/data/icons/web-design-21/50/44-512.png' with='30px' height='30px' />
-</a>
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ### Tools I work upon : 🛠
