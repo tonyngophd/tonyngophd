@@ -6,6 +6,14 @@
 - 📫 How to reach me: https://tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
+<br>
+### You can also find me on
+ 
+  [<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  [<img align="left" alt="tonyngo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="tonyngo | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br>
 ### Tools I work upon : 🛠
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/java%20-%23563D7C.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
@@ -40,14 +48,8 @@ For a comprehensive list of my tools and skills, please check here: https://tony
 <img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 <br>
-### You can also find me on
- 
-  [<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="tonyngo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="tonyngo | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br>
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suasllc&theme=dark" alt="suasllc" /></p>
 <!--
 <a href="https://github.com/suasllc">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suasllc&layout=compact" />
