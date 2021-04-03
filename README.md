@@ -44,7 +44,7 @@ For a comprehensive list of my tools and skills, please check here: https://tony
 </a>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" width="350px"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suasllc&theme=dark" alt="suasllc" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" width="350px"> <div style='background-color: gray; border: 1px solid gray; border-radius: 5px; overflow: hidden;'><img src="https://github-readme-streak-stats.herokuapp.com/?user=suasllc&theme=darker" alt="suasllc" width="350px"/> </div>
 <!--
 <a href="https://github.com/suasllc">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suasllc&layout=compact" />
