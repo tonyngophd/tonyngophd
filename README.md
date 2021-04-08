@@ -1,7 +1,7 @@
 #### Hello, I'm Tony Ngo, an experienced full-stack software engineer for web and mobile apps.
 
 - 🔭 I’m currently working on full-stack web apps
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript, Golang & Angular
 - 👯 I’m looking to collaborate on full-stack web apps, android apps, drone projects
 - 📫 How to reach me: https://tonyngo.me
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
