@@ -7,7 +7,7 @@
 - 😄 Pronouns: Tony N-go / Tony No (either is fine), he/him/his
 
 <br>
-### You can also find me on
+### You can also find me here
  
   [<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
   [<img align="left" alt="tonyngo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
